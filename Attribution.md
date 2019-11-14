@@ -6,6 +6,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 |--|--|--|
 | -7 | HLS - -7 - [2003].iso | BitRain |
 | 2596 | HLS - 2596 - [Dec 16 2005].rar | ExtraVirus |
+| 2733 | HLS - 2733 - [May 2 2006].rar | BitRain |
 | 2707 | HLS - 2707 [April 6 2006].rar | ExtraVirus |
 | 3152 | HLS - 3152 [Jun 25 2007].7z | ExtraVirus |
 
@@ -23,24 +24,34 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 2949 | HL2 - 2949 - [Dec  4 2006].7z | BitRain |
 | 3224 | HL2 - 3224 - [Sep  5 2007][Taiwanese Orange Box].7z | BitRain |
 | 4044 | HL2 - 4044 - [Dec  3 2009][Old Engine Source Mod].zip | BitRain |
+| 4231 | HL2 - 4231 - [Jun 10 2010].zip | ExtraVirus |
 | 5135 | HL2 - 5135 - [Source Unpack][Nov 28, 2012].exe | BitRain |
 
 ## Half-Life 2 Episode 1 Builds
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 2761 | HL2 EP1 - 2761 - [May 30 2006].rar | BitRain |
-| 4044 | HL2 EP1 - 4044 - [Dec 3 2009][Old Engine Source Mod].rar | BitRain |
+| 4044 | HL2 EP1 - 4044 - [Dec 3 2009][Old Engine Source Mod].rar | ExtraVirus |
 | 3264 | HL2EP1 - 3264 - [Oct 15 2007].rar | ExtraVirus |
+| 3945 | EP1 - 3945 - [Aug 26 2009].rar | ExtraVirus |
+| 4231 | EP1 - 4231 - [Jun 10 2010].rar | ExtraVirus |
 
 ## Half-Life 2 Episode 2 Builds
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 3258 | EP2 - 3258 - [Oct 9 2007][Release Version].rar | ExtraVirus |
+| 3338 | EP2 - 3338 - [Dec 27 2007].rar | ExtraVirus |
 | 3420 | EP2 - 3420 - [Mar 19 2008].rar | ExtraVirus |
 | 3467 | EP2 - 3467 - [May 6 2008].rar | ExtraVirus |
+| 4295 | EP2 - 4231 - [Aug 11 2010].rar | ExtraVirus |
 
 ## Half-Life 2 Lost Coast
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 2547 | HL2 - 2547 - [Oct 28 2005].7z | BitRain |
-| 2707 | HL2LC - 2707 - [April 6 2006].iso | ExtraVirus |
+| 2707 | HL2LC - 2707 - [Apr 6 2006].iso | ExtraVirus |
+
+## Portal
+| Build Number | File Name | Sourced By |
+|--|--|--|
+| 3258 | Portal - 3258 - [Oct 9 2007].7z | ExtraVirus |
