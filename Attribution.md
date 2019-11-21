@@ -47,6 +47,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 3420 | EP2 - 3420 - [Mar 19 2008].rar | ExtraVirus |
 | 3467 | EP2 - 3467 - [May 6 2008].rar | ExtraVirus |
 | 3530 | 2707, 3530, 3531 - Half-Life Source Premiere Pack.rar | ExtraVirus |
+| 3943 | EP2 - 3943 - [Sep 2 2009].rar | ExtraVirus |
 | 4295 | EP2 - 4295 - [Aug 11 2010].rar | ExtraVirus |
 
 ## Half-Life 2 Lost Coast
