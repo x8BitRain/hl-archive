@@ -22,6 +22,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 2455 | HL2 - 2455 - [Jul  28 2005].iso | BitRain |
 | 2459 | HL2 - 2459 - [Aug 1 2005].7z | BitRain |
 | 2547 | HL2 - 2547 - [Oct 28 2005].7z | ExtraVirus |
+| 2602 | HL2 - 2602 - [Dec 22 2005][x64 bit build].zip | BitRain |
 | 2707 | HL2 - 2707 - [Apr 6 2006].iso | BitRain |
 | 2733 | HL2 - 2733 - [May 2 2006].rar | BitRain |
 | 2949 | HL2 - 2949 - [Dec  4 2006].7z | BitRain |
