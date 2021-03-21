@@ -31,6 +31,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 4231 | HL2 - 4231 - [Jun 10 2010].zip | ExtraVirus |
 | 4295 | HL2 - 4295 - [Aug 11 2010].zip | ExtraVirus |
 | 5135 | HL2 - 5135 - [Source Unpack][Nov 28, 2012].exe | BitRain |
+| 5288 | HL2 - 5288 - [May 7 2013].7z | tmob |
 | 5345 | HL2 - 5345 - [Jun 26 2013].rar | ExtraVirus |
 
 ## Half-Life 2 Episode 1 Builds
@@ -43,6 +44,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 4231 | EP1 - 4231 - [Jun 10 2010].rar | ExtraVirus |
 | 4295 | EP1 - 4295 - [Aug 11 2010].rar | ExtraVirus |
 | 5135 | EP1 - 5135 - [Nov 28 2012].zip | ExtraVirus |
+| 5288 | EP1 - 5288 - [May 7 2013].7z | tmob |
 | 5345 | EP1 - 5345 - [Jun 26 2013].rar | ExtraVirus |
 
 ## Half-Life 2 Episode 2 Builds
