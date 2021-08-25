@@ -18,6 +18,7 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 2153 | HL2 - 2153 - [Sep 29 2004][XJR Collector's Edition].iso | XJR9000 |
 | 2153 | HL2 XJR Collector's Edition Source Disk.ISO | XJR9000 |
 | 2187 | HL2 - 2187 - [Nov 2 2004][BitRain Unpack].7z | BitRain |
+| 2215 | HL2 - 2215 - [Nov 30 2004].7z | oofer_dww |
 | 2217 | HL2 - 2217 - [Dec  2 2004][DVD Collector's Edition].iso | BitRain |
 | 2455 | HL2 - 2455 - [Jul  28 2005].iso | BitRain |
 | 2459 | HL2 - 2459 - [Aug 1 2005].7z | BitRain |
