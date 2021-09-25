@@ -1,5 +1,5 @@
 # Half Life Archive Attribution
-Credit to the people that sourced each version found in this ***private*** archive.
+Credit to the people that sourced each version found in the archive.
 
 ## Half-Life Source Builds
 | Build Number | File Name | Sourced By |
@@ -17,9 +17,14 @@ Credit to the people that sourced each version found in this ***private*** archi
 |--|--|--|
 | 2153 | HL2 - 2153 - [Sep 29 2004][XJR Collector's Edition].iso | XJR9000 |
 | 2153 | HL2 XJR Collector's Edition Source Disk.ISO | XJR9000 |
+| 2176 | HL2 - 2176 - [Oct 25 2004][bin].7z | oofer_dww |
+| 2179 | HL2 - 2179 - [Oct 23 2004][bin].7z | oofer_dww |
 | 2187 | HL2 - 2187 - [Nov 2 2004][BitRain Unpack].7z | BitRain |
 | 2215 | HL2 - 2215 - [Nov 30 2004].7z | oofer_dww |
+| 2216 | HL2 - 2216 - [Dec 1 2004][bin].7z | oofer_dww |
 | 2217 | HL2 - 2217 - [Dec  2 2004][DVD Collector's Edition].iso | BitRain |
+| 2340 | HL2 - 2340 - [Apr 4 2005][bin].7z | oofer_dww |
+| 2259 | HL2 - 2259 - [Jan 13 2005][bin].7z | oofer_dww |
 | 2455 | HL2 - 2455 - [Jul  28 2005].iso | BitRain |
 | 2459 | HL2 - 2459 - [Aug 1 2005].7z | BitRain |
 | 2547 | HL2 - 2547 - [Oct 28 2005].7z | ExtraVirus |
@@ -74,3 +79,17 @@ Credit to the people that sourced each version found in this ***private*** archi
 | 3943 | Portal Prelude - 3943 - [Sep 2 2009].rar | ExtraVirus |
 | 5135 | Source Unpack 2.4.zip | BitRain |
 | 5135 | Half-Life 2 Done Portal.rar | ExtraVirus |
+
+## Misc
+| Build Number | File Name | Sourced By |
+|--|--|--|
+| 1905911 | HLS HL2 - 1905911 [Sep 12 2013].rar | tmob |
+| 1918260 | HLS HL2 - 1918260 [Sep 20 2013].rar | tmob |
+| 24422905 | HL2 HLS 24422905 [Sep 30 2014].rar | tmob |
+| 2229597 | HL2 HLS 2229597 [May 16 2014].rar | tmob |
+| 2044480 | HL2 HLS - 2044480 [Dec 12 2013].rar | tmob |
+| 1992855 | HL2 HLS - 1992855 [Nov 8 2013].7z | tmob |
+| 1992855 | HL2 HLS - 1992855 [Nov 8 2013].7z | tmob |
+| 1923675 | HL2 HLS - 1923675 [Sep 25 2013].rar | tmob |
+
+
