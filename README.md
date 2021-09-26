@@ -89,7 +89,6 @@ Credit to the people that sourced each version found in the archive.
 | 2229597 | HL2 HLS 2229597 [May 16 2014].rar | tmob |
 | 2044480 | HL2 HLS - 2044480 [Dec 12 2013].rar | tmob |
 | 1992855 | HL2 HLS - 1992855 [Nov 8 2013].7z | tmob |
-| 1992855 | HL2 HLS - 1992855 [Nov 8 2013].7z | tmob |
 | 1923675 | HL2 HLS - 1923675 [Sep 25 2013].rar | tmob |
 
 
