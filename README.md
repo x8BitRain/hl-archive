@@ -45,6 +45,7 @@ Credit to the people that sourced each version found in the archive.
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 2761 | HL2 EP1 - 2761 - [May 30 2006].rar | BitRain |
+| 2873 | HL2 EP1 - 2873 - [Sep 19 2006].7z | Windows And Doors 95 |
 | 3264 | HL2EP1 - 3264 - [Oct 15 2007].rar | ExtraVirus |
 | 3945 | EP1 - 3945 - [Aug 26 2009].rar | ExtraVirus |
 | 4044 | HL2 EP1 - 4044 - [Dec 3 2009][Old Engine Source Mod].rar | ExtraVirus |
