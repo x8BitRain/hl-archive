@@ -59,6 +59,7 @@ Credit to the people that sourced each version found in the archive.
 | Build Number | File Name | Sourced By |
 |--|--|--|
 | 3258 | EP2 - 3258 - [Oct 9 2007][Release Version].rar | ExtraVirus |
+| 3300 | EP2 - 3300 - [Nov 20 2007].7z | Cosmic Eternity |
 | 3338 | EP2 - 3338 - [Dec 27 2007].rar | ExtraVirus |
 | 3420 | EP2 - 3420 - [Mar 19 2008].rar | ExtraVirus |
 | 3467 | EP2 - 3467 - [May 6 2008].rar | ExtraVirus |
