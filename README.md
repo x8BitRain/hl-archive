@@ -17,6 +17,7 @@ Credit to the people that sourced each version found in the archive.
 |--|--|--|
 | 2145 | /Extrated Depots (all versions)/source engine.7z/11 (4-2145) | oofer_dww/BitRain |
 | 2153 | HL2 - 2153 - [Sep 29 2004][XJR Collector's Edition].iso | XJR9000 |
+| 2153 | HL2, CSS - Simplified Chinese - 2153 [Sep 29, 2004].7z | oofer_dww/BitRain |
 | 2153 | HL2 XJR Collector's Edition Source Disk.ISO | XJR9000 |
 | 2176 | HL2 - 2176 - [Oct 25 2004][bin].7z | oofer_dww |
 | 2179 | HL2 - 2179 - [Oct 23 2004][bin].7z | oofer_dww |
