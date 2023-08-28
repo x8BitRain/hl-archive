@@ -19,19 +19,54 @@ Credit to the people that sourced each version found in the archive.
 | 2153 | HL2 - 2153 - [Sep 29 2004][XJR Collector's Edition].iso | XJR9000 |
 | 2153 | HL2, CSS - Simplified Chinese - 2153 [Sep 29, 2004].7z | oofer_dww/BitRain |
 | 2153 | HL2 XJR Collector's Edition Source Disk.ISO | XJR9000 |
+| 2166 | 2166.zip | N/A |
+| 2173 | 2173.zip | N/A |
 | 2176 | HL2 - 2176 - [Oct 25 2004][bin].7z | oofer_dww |
 | 2179 | HL2 - 2179 - [Oct 23 2004][bin].7z | oofer_dww |
 | 2187 | HL2 - 2187 - [Nov 2 2004][BitRain Unpack].7z | BitRain |
 | 2215 | HL2 - 2215 - [Nov 30 2004].7z | oofer_dww |
 | 2216 | HL2 - 2216 - [Dec 1 2004][bin].7z | oofer_dww |
 | 2217 | HL2 - 2217 - [Dec  2 2004][DVD Collector's Edition].iso | BitRain |
-| 2340 | HL2 - 2340 - [Apr 4 2005][bin].7z | oofer_dww |
+| 2229 | 2229.zip | N/A |
+| 2236 | 2236.zip | N/A |
 | 2259 | HL2 - 2259 - [Jan 13 2005][bin].7z | oofer_dww |
+| 2279 | 2279.zip | N/A |
+| 2293 | 2293.zip | N/A |
+| 2300 | 2300.zip | N/A |
+| 2301 | 2301.zip | N/A |
+| 2313 | 2313.zip | N/A |
+| 2326 | 2326.zip | N/A |
+| 2329 | 2329.zip | N/A |
+| 2340 | HL2 - 2340 - [Apr 4 2005][bin].7z | oofer_dww |
+| 2349 | 2349.zip | N/A |
+| 2356 | 2356.zip | N/A |
+| 2378 | 2378.zip | N/A |
+| 2378 | 2378.zip | N/A |
+| 2379 | 2379.zip | N/A |
+| 2382 | 2382.zip | N/A |
+| 2433 | 2433.zip | N/A |
 | 2455 | HL2 - 2455 - [Jul  28 2005].iso | BitRain |
 | 2459 | HL2 - 2459 - [Aug 1 2005].7z | BitRain |
+| 2497 | 2497.zip | N/A |
+| 2511 | 2511.zip | N/A |
+| 2512 | 2512.zip | N/A |
+| 2515 | 2515.zip | N/A |
+| 2516 | 2516.zip | N/A |
+| 2519 | 2519.zip | N/A |
+| 2536 | 2536.zip | N/A |
+| 2545 | 2545.zip | N/A |
 | 2547 | HL2 - 2547 - [Oct 28 2005].7z | ExtraVirus |
+| 2578 | 2578.zip | N/A |
+| 2593 | 2593 - 64Bit.zip | N/A |
+| 2596 | 2596.zip | N/A |
 | 2602 | HL2 - 2602 - [Dec 22 2005][x64 bit build].zip | BitRain/Aarik/Chipsnapper |
+| 2639 | 2639.zip | N/A |
+| 2639 | 2639.zip | N/A |
+| 2643 | 2643.zip | N/A |
+| 2651 | 2651.zip | N/A |
 | 2707 | HL2 - 2707 - [Apr 6 2006].iso | BitRain |
+| 2672 | 2672.zip | N/A |
+| 2687 | 2687.zip | N/A |
 | 2733 | HL2 - 2733 - [May 2 2006].rar | BitRain |
 | 2949 | HL2 - 2949 - [Dec  4 2006].7z | BitRain |
 | 3224 | HL2 - 3224 - [Sep  5 2007][Taiwanese Orange Box].7z | BitRain |
